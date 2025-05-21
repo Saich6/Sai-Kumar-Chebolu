@@ -10,7 +10,7 @@
 📌 I have experience building trading websites, project planning tools, and dashboards.
 
 📬 Reach out:
-- 📧 saikumar.chebolu@6@gmail.com
+- 📧 saikumar.chebolu6@gmail.com
 - 📄 [My Resume](#) *[(https://docs.google.com/document/d/134XMMP6XbZ9_LwEM001zR0mLff-zO3RX/edit?usp=sharing&ouid=116117645892770942727&rtpof=true&sd=true)*
 
 > “Code is like humor. When you have to explain it, it’s bad.”
